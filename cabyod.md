@@ -42,6 +42,7 @@ in the Mobile Device Managment space there are many different suites you can use
 
 # how does it work for the company #
 
+
 - set up device on the network 
 - adding corprate apps 
 - company and personal apps work side by side
@@ -49,10 +50,10 @@ in the Mobile Device Managment space there are many different suites you can use
 
 # Advanagtes # 
 
-- employees like using there own device. 
-	* can make them happy or choose one company over another
-	* more comorbale using there own. less training. famillar 
-	* can stay on top of work
+studies have shown that employees will choose one company over another if they have BYOD in place. Changing jobs can be diffcult so knowing that you dont have to spent time figuring out how to use a new device can be seen to help employees settle in a new job. They won't need as much training either as they will know how to use the device. Once they up o speed with the new software then they should be able to be productive faster then if they had to get use to a new device as well. 
+A big selling point for the adoption of BYOD is the reduced hardware costs. Hardware can account for a huge portion of a compaies IT budget. Allowing employees to use thier own device makes them happy but can also save company huge amount of money for a device they may not be happy with. From experince when an employee is happy using there device they will look after it better. When company hardware is given out there can be an elament of employees not caring for a device. They can treat a device without any care under the asureince that it will be replaced without any questions asked. This in turn leads to higher costs as devices will be higher for repairs. With BYOD as the device is owned by the employee they will take care of it better knowing that it won't be replaced by the company. 
+With a good BYOD setup in a company it allows employees the chance to use there own device when they want but also if they are going to use there own device they can without compremising the companines poilcy. Ensuring that if employees are going to download any documents from company email on there own laptop or phone that they would be scure and not comprimising the companies poily.
+
 - less spent of compaines hardware budget
 - devices are scure. know that the company apps are working on te net work. 
 -
